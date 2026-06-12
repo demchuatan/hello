@@ -3,12 +3,12 @@
   "srotools_version": "4.4",
   "plugin_version": "10.4",
   "sroplus_info": [
-    "Information Version v%s:\n- Chặn Canh Hàng Tại SV Thổ Quỷ",
-    "Thông Tin Phiên Bản v%s:\n- Chặn Canh Hàng Tại SV Thổ Quỷ"
+    "Information Version v%s:\n- Khoá Canh Hàng Tại SV Thổ Quỷ",
+    "Thông Tin Phiên Bản v%s:\n- Khoá Canh Hàng Tại SV Thổ Quỷ"
   ],
   "srotools_info": [
-    "Information Version v%s:\n- Chặn Canh Hàng Tại SV Thổ Quỷ",
-    "Thông Tin Phiên Bản v%s:\n- Chặn Canh Hàng Tại SV Thổ Quỷ"
+    "Information Version v%s:\n- Khoá Canh Hàng Tại SV Thổ Quỷ",
+    "Thông Tin Phiên Bản v%s:\n- Khoá Canh Hàng Tại SV Thổ Quỷ"
   ],
   "plugin_info": [
     "Information Version v%s:\n- Nâng cấp gửi/cất áo xanh để farm",
