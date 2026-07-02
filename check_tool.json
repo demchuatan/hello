@@ -1,10 +1,10 @@
 {
-  "sroplus_version": "15.8",
+  "sroplus_version": "15.9",
   "srotools_version": "4.4",
   "plugin_version": "10.4",
   "sroplus_info": [
-    "Information Version v%s:\n- Farm: Hỗ trợ giờ xanh xuyên đêm\n- Farm: Hết DCN,BSC sẽ lấy ở kho guild",
-    "Thông Tin Phiên Bản v%s:\n- Farm: Hỗ trợ giờ xanh xuyên đêm\n- Farm: Hết DCN,BSC sẽ lấy ở kho guild"
+    "Information Version v%s:\n- Farm: Fix lỗi thỉnh thoảng không gửi đồ kho guild\n- Farm: Fix lỗi ghost party những sv chặn ghost quái",
+    "Thông Tin Phiên Bản v%s:\n- Farm: Fix lỗi thỉnh thoảng không gửi đồ kho guild\n- Farm: Fix lỗi ghost party những sv chặn ghost quái"
   ],
   "srotools_info": [
     "Information Version v%s:\n- Khoá Canh Hàng Tại SV Thổ Quỷ",
