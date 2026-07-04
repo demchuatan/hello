@@ -1,10 +1,10 @@
 {
-  "sroplus_version": "15.9",
+  "sroplus_version": "16.0",
   "srotools_version": "4.4",
   "plugin_version": "10.4",
   "sroplus_info": [
-    "Information Version v%s:\n- Farm: Fix lỗi thỉnh thoảng không gửi đồ kho guild\n- Farm: Fix lỗi ghost party những sv chặn ghost quái",
-    "Thông Tin Phiên Bản v%s:\n- Farm: Fix lỗi thỉnh thoảng không gửi đồ kho guild\n- Farm: Fix lỗi ghost party những sv chặn ghost quái"
+    "Information Version v%s:\n- Farm: Thêm tab quản lý trạng thái auto login\n- Farm: Thêm tính năng farm ngày chẵn lẻ",
+    "Thông Tin Phiên Bản v%s:\n- Farm: Thêm tab quản lý trạng thái auto login\n- Farm: Thêm tính năng farm ngày chẵn lẻ"
   ],
   "srotools_info": [
     "Information Version v%s:\n- Khoá Canh Hàng Tại SV Thổ Quỷ",
