@@ -1,10 +1,10 @@
 {
-  "sroplus_version": "16.0",
+  "sroplus_version": "16.2",
   "srotools_version": "4.4",
   "plugin_version": "10.4",
   "sroplus_info": [
-    "Information Version v%s:\n- Farm: Thêm tab quản lý trạng thái auto login\n- Farm: Thêm tính năng farm ngày chẵn lẻ",
-    "Thông Tin Phiên Bản v%s:\n- Farm: Thêm tab quản lý trạng thái auto login\n- Farm: Thêm tính năng farm ngày chẵn lẻ"
+    "Information Version v%s:\n- Nâng cấp giao diện",
+    "Thông Tin Phiên Bản v%s:\n- Nâng cấp giao diện"
   ],
   "srotools_info": [
     "Information Version v%s:\n- Khoá Canh Hàng Tại SV Thổ Quỷ",
