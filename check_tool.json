@@ -3,8 +3,8 @@
   "srotools_version": "4.4",
   "plugin_version": "10.4",
   "sroplus_info": [
-    "Information Version v%s:\n- Nâng cấp giao diện",
-    "Thông Tin Phiên Bản v%s:\n- Nâng cấp giao diện"
+    "Information Version v%s:\n- Nâng cấp giao diện\n- Fix lỗi ngày chẵn lẻ\n- Sửa đổi điều kiện lấy dcn trong kho guild",
+    "Thông Tin Phiên Bản v%s:\n- Nâng cấp giao diện\n- Fix lỗi ngày chẵn lẻ\n- Sửa đổi điều kiện lấy dcn trong kho guild"
   ],
   "srotools_info": [
     "Information Version v%s:\n- Khoá Canh Hàng Tại SV Thổ Quỷ",
