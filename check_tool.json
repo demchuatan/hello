@@ -1,10 +1,10 @@
 {
-  "sroplus_version": "16.5",
+  "sroplus_version": "16.7",
   "srotools_version": "4.4",
   "plugin_version": "10.4",
   "sroplus_info": [
-    "Information Version v%s:\n- Fix lỗi farm",
-    "Thông Tin Phiên Bản v%s:\n- Fix lỗi farm"
+    "Information Version v%s:\n- Fix lỗi thỉnh thoảng quét game không nhận cửa sổ game",
+    "Thông Tin Phiên Bản v%s:\n- Fix lỗi thỉnh thoảng quét game không nhận cửa sổ game"
   ],
   "srotools_info": [
     "Information Version v%s:\n- Khoá Canh Hàng Tại SV Thổ Quỷ",
