@@ -1,6 +1,6 @@
 {
   "sroplus_version": "16.8",
-  "srotools_version": "4.4",
+  "srotools_version": "4.5",
   "plugin_version": "10.4",
   "sroplus_info": [
     "Information Version v%s:\n- Tối ưu gửi/nhận đồ cho farm",
