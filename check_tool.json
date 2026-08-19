@@ -1,10 +1,10 @@
 {
-  "sroplus_version": "16.8",
+  "sroplus_version": "17.0",
   "srotools_version": "4.5",
   "plugin_version": "10.4",
   "sroplus_info": [
-    "Information Version v%s:\n- Tối ưu gửi/nhận đồ cho farm",
-    "Thông Tin Phiên Bản v%s:\n- Tối ưu gửi/nhận đồ cho farm"
+    "Information Version v%s:\n- Tối ưu kết nối khi quét game",
+    "Thông Tin Phiên Bản v%s:\n- Tối ưu kết nối khi quét game"
   ],
   "srotools_info": [
     "Information Version v%s:\n- Thêm tuỳ chọn ghost delay để hỗ trợ ẩn tool tốt hơn",
