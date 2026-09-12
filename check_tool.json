@@ -1,10 +1,10 @@
 {
-  "sroplus_version": "17.0",
+  "sroplus_version": "17.1",
   "srotools_version": "4.5",
   "plugin_version": "10.4",
   "sroplus_info": [
-    "Information Version v%s:\n- Tối ưu kết nối khi quét game",
-    "Thông Tin Phiên Bản v%s:\n- Tối ưu kết nối khi quét game"
+    "Information Version v%s:\n- Thêm thị trấn Hoà Điền được chỉ định hồi sinh dành cho farmer",
+    "Thông Tin Phiên Bản v%s:\n- Thêm thị trấn Hoà Điền được chỉ định hồi sinh dành cho farmer"
   ],
   "srotools_info": [
     "Information Version v%s:\n- Thêm tuỳ chọn ghost delay để hỗ trợ ẩn tool tốt hơn",
